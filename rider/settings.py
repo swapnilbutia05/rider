@@ -25,7 +25,7 @@ BASE_DIR = Path(__file__).resolve(strict=True).parent.parent
 SECRET_KEY = 'k=3i-h$h-9q#*@vxcgabey47u$&6pg60w-4dtyd^i(6umlwm_#'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['floating-badlands-41165.herokuapp.com', 'rider.co', 'www.rider.co']
 
